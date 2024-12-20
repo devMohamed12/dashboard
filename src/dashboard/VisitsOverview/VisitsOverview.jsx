@@ -10,11 +10,9 @@ const VisitsOverview = () => {
         sx={{
           p: 2,
           borderRadius: 3,
-          boxShadow: 1,
           backgroundColor: "white",
           overflow: "auto",
           boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1)",
-
         }}
       >
         <Typography variant="customTitle" mb={3}>

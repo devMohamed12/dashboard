@@ -4,7 +4,7 @@ import TopSellingProducts from "./TopProducts";
 import CategoriesChart from "./CategoriesChart2";
 
 
-const TopSelling = () => {
+const TopSellingg = () => {
   return (
     <Grid item container spacing={2} >
       <Grid item xs={12} md={7}>
@@ -17,5 +17,5 @@ const TopSelling = () => {
   );
 };
 
-export default TopSelling;
+export default TopSellingg;
 
