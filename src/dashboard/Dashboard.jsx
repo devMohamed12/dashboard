@@ -2,7 +2,7 @@
 
 import { OrdersOverview, TopCountriesSales, FinancialIInfo, VisitsOverview } from "../components/index";
 import TopCountriesVisits from "./TopCountriesVisits";
-import TopSellingg from "./TopSelling/TopSelling";
+import TopSellingg from "./topSelling/TopSellingg";
  
 const Dashboard = () => (
   <Grid container spacing={10} columnSpacing={3}>
