@@ -8,7 +8,7 @@ export const productsColumns = [
     width: 150,
     renderCell: (params) => (
       <Link
-        to={`/product/${params.row.id}`}
+        to={`/products/${params.row.id}`}
         style={{ textDecoration: "none", color: "black" }}
       >
         {params.value}
