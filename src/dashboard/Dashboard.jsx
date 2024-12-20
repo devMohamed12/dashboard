@@ -1,7 +1,8 @@
   import { Grid } from "@mui/material";
 
-import { OrdersOverview, TopCountriesSales, FinancialIInfo, TopSelling, VisitsOverview } from "../components/index";
+import { OrdersOverview, TopCountriesSales, FinancialIInfo, VisitsOverview } from "../components/index";
 import TopCountriesVisits from "./TopCountriesVisits";
+import TopSelling from "./TopSelling/TopSelling";
  
 const Dashboard = () => (
   <Grid container spacing={10} columnSpacing={3}>

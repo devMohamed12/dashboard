@@ -8,7 +8,6 @@ import DashBoardItem from "../dashboard/DashBoardItem";
 import OrdersOverview from "../dashboard/OrdersOverview.jsx";
 import TopCountriesSales from "../dashboard/TopCountriesSales.jsx";
 import FinancialIInfo from "../dashboard/FinancialOverview/FinancialIInfo.jsx";
-import TopSelling from "../dashboard/TopSelling/TopSelling.jsx";
 import VisitsOverview from "../dashboard/VisitsOverview/VisitsOverview.jsx";
 // ============== Orders ===============
 import Orders from "./Orders/Orders.jsx";
@@ -38,7 +37,6 @@ export {
   OrdersOverview,
   TopCountriesSales,
   FinancialIInfo,
-  TopSelling,
   VisitsOverview,
   // ============== employers ===============
   Employers,
